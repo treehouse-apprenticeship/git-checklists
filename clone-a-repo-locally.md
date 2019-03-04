@@ -1,7 +1,21 @@
-## Cloning a Repository Locally 
-* Go to GitHub repository on website and select clone or download 
-* Copy address
+# Cloning a Repository Locally 
+To work on the project on your own machines you'll need to clone the project 
+## Navigate to project repository 
+* Go to the github repository you would like to clone.
+
+## Click clone or download button 
+![PR select branch](images/cl2.png "Clone Repo")
+
+## Copy remote url 
+Copy the remote url that is displayed when you click the clone or download button. 
+
+![PR select branch](images/cl1.png "Clone Repo")
+
+## Clone repository 
 * In your terminal use the cd command and the address of your local GitHub folder 
-* Use git clone command and address copied from GitHub 
-### If two factor authentication is enabled you won’t be able to do this. 
-###comment
+* Use the git clone command and address copied from GitHub 
+
+ > ```git clone https://github.com/treehouse-talentpath/pdxcohort1-practice.git ```
+
+
+
