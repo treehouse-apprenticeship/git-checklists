@@ -21,3 +21,8 @@ Copy the remote url that is displayed when you click the clone or download butto
 * Use ls to view contents of current directory and make sure the repo is there
  > ```ls ```
 ![PR select branch](images/cl3.png "Clone Repo")
+
+## Enter project directory
+
+
+> ```cd talentpath-team-project-fsjs```
