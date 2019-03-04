@@ -17,5 +17,7 @@ Copy the remote url that is displayed when you click the clone or download butto
 
  > ```git clone https://github.com/treehouse-talentpath/pdxcohort1-practice.git ```
 
-
-
+## Check to make sure the repo was cloned 
+* Use ls to view contents of current directory and make sure the repo is there
+ > ```ls ```
+![PR select branch](images/cl3.png "Clone Repo")
